@@ -26,5 +26,3 @@ public class Equal
 			System.out.println("both number are equal");
 		}
 	}
-}
-
